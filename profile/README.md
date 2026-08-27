@@ -62,12 +62,14 @@ forward across all of them.
 
 Six stages over two days, each going deeper than the last:
 
-**Round 0 — Baseline** · no elimination, just a read on where everyone starts
-**Round 1 — Observe** · your first black box, and the first cut
-**Round 2 — Investigate** · past surface behaviour into the hidden pipeline
-**Round 3 — Break** · find where the system is confidently wrong
-**Round 4 — Reconstruct** · build a model that reproduces it
-**Final — The Unknown** · a fresh system, the same for every finalist, then defend your reasoning to the panel
+| | Stage | |
+|:--|:--|:--|
+| **0** | Baseline | No elimination — just a read on where everyone starts |
+| **1** | Observe | Your first black box, and the first cut |
+| **2** | Investigate | Past surface behaviour into the hidden pipeline |
+| **3** | Break | Find where the system is confidently wrong |
+| **4** | Reconstruct | Build a model that reproduces it |
+| **F** | The Unknown | A fresh system, the same for every finalist — then defend your reasoning to the panel |
 
 Full details and registration: **[ieee-blackbox-ai.github.io](https://ieee-blackbox-ai.github.io)**
 
