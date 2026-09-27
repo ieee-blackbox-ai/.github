@@ -81,11 +81,13 @@ Full details and registration: **[ieee-blackbox-ai.github.io](https://ieee-black
 |:--|:--|
 | [`ieee-blackbox-ai.github.io`](https://github.com/ieee-blackbox-ai/ieee-blackbox-ai.github.io) | Public event site |
 | `blackbox-platform` | Competition server and challenge source — private |
-| `blackbox-ai-participant-template` | Team repository template: issue forms for hypotheses and experiments, PR-based submissions |
+| `blackbox-ai-participant-template` | The repository every team forks: issue forms for hypotheses and experiments, PR-based submissions. Public from the start of the event |
 | `.github` | This profile |
 
-Team repositories are created per edition and stay **private during the event**, so no team
-can read another's findings. They are archived once results are final.
+When the event starts, every team forks the participant template and submits through pull
+requests and issues on it, which the judges mark. What counts is the commit each pull request
+stood at when its round ended, and submission windows are short - so work opened in public
+after a round closes cannot change that round's result.
 
 ---
 

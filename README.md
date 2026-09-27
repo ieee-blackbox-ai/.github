@@ -18,6 +18,12 @@ git push -u origin main
 The repo name must be exactly `.github` — an organisation profile does not come from a
 repo named after the org. (That pattern is for personal accounts.)
 
+## On the morning of the event
+
+The event site closes registration by itself at 09:00 on 6 October; this profile cannot.
+Change the 1.0 status in the series table from **Registration open** to **In progress**,
+and to **Concluded** after Day 2.
+
 ## Updating between editions
 
 The profile is written for the series, not a single event. When 1.0 finishes:
